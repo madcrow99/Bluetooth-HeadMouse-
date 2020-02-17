@@ -7,8 +7,10 @@ Connect Arduino MEGA, RN-42 (use one module for each device) , 4 buttons and the
 
 Run HID_Config.ino, to configure the rn-42. This sets the RN-42 to the combo(mouse and keyboard ) profile.
 
+Pair RN-42 modules with devices (phone and computer). This step is simply pairing a Bluetooth device from the phone or computer.
+
 Upload headMouse.ino
 
 If the pointer moves while the MPU 6050 is stationary, run calibrate_gyro.ino with MPU6050 stationary. Update values of averageX and averageZ in headMouse.ino.
 
-Included are step and stl files for power wheelchair button mounts (left and right hand and head)
+Included are step and stl files for power wheelchair button mounts (left and right, hand and head). 
