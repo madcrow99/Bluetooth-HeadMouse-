@@ -14,3 +14,6 @@ Upload headMouse.ino
 If the pointer moves while the MPU 6050 is stationary, run calibrate_gyro.ino with MPU6050 stationary. Update values of averageX and averageZ in headMouse.ino.
 
 Included are step and stl files for power wheelchair button mounts (left and right, hand and head). 
+
+![Headrest](https://user-images.githubusercontent.com/60524115/74993637-d3e9ae00-5408-11ea-90e8-a1750409c90b.jpg)
+![Powerchair](https://user-images.githubusercontent.com/60524115/74993647-db10bc00-5408-11ea-8423-e0b95e2d7ee9.jpg)
