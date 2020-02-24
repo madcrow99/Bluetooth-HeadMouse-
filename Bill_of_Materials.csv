@@ -1,0 +1,7 @@
+﻿Item,Description,Manufacturer,Part Number,QTY,Unit Cost,Cost,Digikey Link,Unit Cost,Cost,Alternate Link
+1,Inertial Movement Sensor,SparkFun Electronics,SEN-11028,1, $42.83 ,$42.83,https://www.digikey.ca/products/en?keywords=SEN-11028,$29.95,$29.95,https://www.sparkfun.com/products/11028
+2,Arduino Mega,Arduino,A000067,1, $55.05 ,$55.05,https://www.digikey.ca/products/en/development-boards-kits-programmers/evaluation-boards-embedded-mcu-dsp/786,$38.95,$38.95,https://www.sparkfun.com/products/11061
+3,Bluetooth Module,SparkFun Electronics,WRL-12576,3, $39.97 ,$119.91,https://www.digikey.ca/products/en?KeyWords=WRL-12576,$27.95,$83.85,https://www.sparkfun.com/products/12576
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,$217.79,,,$152.75,
